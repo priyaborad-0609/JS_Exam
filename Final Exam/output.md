@@ -37,3 +37,5 @@ Meal prep & serving ideas
 #DevEats
 
 https://github.com/user-attachments/assets/281f54dc-ce7a-4057-a2e5-638bc64b781f
+
+Code video: https://drive.google.com/file/d/1mX-15hbKpE1IbyBp0J3BanJuviIQVI-F/view?usp=sharing
